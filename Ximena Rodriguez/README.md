@@ -1,7 +1,7 @@
 # Ximena Alejandra Rodriguez Salamanca
 ## Estudio en la Escuela Colombiana de Ingenieria Julio Garavito
-**Me encuentro realizando la carrera de Ingenieria de Sistemas** \
- _Actualmente voy en septimo semestre_\
+**Me encuentro realizando la carrera de Ingenieria de Sistemas** 
+ _Actualmente voy en septimo semestre_
  
  Datos personales:
  1. Vivo con mis padres 
