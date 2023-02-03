@@ -1,5 +1,7 @@
 # Ximena Alejandra Rodriguez Salamanca
+
 ## Estudio en la Escuela Colombiana de Ingenieria Julio Garavito
+
 **Me encuentro realizando la carrera de Ingenieria de Sistemas** \
  _Actualmente voy en septimo semestre_
  
@@ -15,10 +17,13 @@
  - Cocinar
  - Bailar
  - Aprender nuevas cosas
-
+ 
 Ultimamente me gusta escuchar musica en frances aqui les presento una de ellas: [Carrousel](https://www.youtube.com/watch?v=pNJoBSNY1T8)\
-En un futuro me gustaria tener esta raza de perritos 
+
+En un futuro me gustaria tener un perrito de esta raza 
 ![image](https://user-images.githubusercontent.com/123812926/216508147-7350dedf-2346-4927-9e94-313d2d617b93.png)
 
-`x = 2`\
-    *y = x + 4
+Codigo:
+
+`x = 2 + y^2 `
+
