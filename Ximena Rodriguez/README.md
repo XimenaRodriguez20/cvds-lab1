@@ -20,5 +20,5 @@ Ultimamente me gusta escuchar musica en frances aqui les presento una de ellas: 
 En un futuro me gustaria tener esta raza de perritos 
 ![image](https://user-images.githubusercontent.com/123812926/216508147-7350dedf-2346-4927-9e94-313d2d617b93.png)
 
-`x = 2`
-     y = x + 4
+`x = 2`\
+    * y = x + 4
