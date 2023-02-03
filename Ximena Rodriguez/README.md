@@ -1,9 +1,17 @@
 # Ximena Alejandra Rodriguez Salamanca
 ## Estudio en la Escuela Colombiana de Ingenieria Julio Garavito
 **Me encuentro realizando la carrera de Ingenieria de Sistemas** \
-_Tengo 20 años_\
- Actualmente voy en septimo semestre\
- Vivo con mis padres\
- Soy colombiana \
- Tengo una hermana ? 
+ _Actualmente voy en septimo semestre_\
+ Datos personales:\
+ 1. Vivo con mis padres\
+ 2. Soy colombiana \
+ 3. Tengo una hermana \
+ 4. Tengo 20 años\
+ Mis hobbys son: 
+ - jugar videojuegos
+ - salir con amigos 
+ - cocinar
+ - bailar
+ - aprender nuevas cosas
+
  
