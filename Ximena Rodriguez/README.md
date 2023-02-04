@@ -23,6 +23,12 @@ Ultimamente me gusta escuchar musica en frances aqui les presento una de ellas: 
 En un futuro me gustaria tener un perrito de esta raza 
 ![image](https://user-images.githubusercontent.com/123812926/216508147-7350dedf-2346-4927-9e94-313d2d617b93.png)
 
+Imagenes Del Tutorial de git
+
+![image](https://user-images.githubusercontent.com/123812969/216793563-bf223d3d-47ae-4b67-b94e-d84b475b9215.png)
+
+![image](https://user-images.githubusercontent.com/123812969/216793569-790e731e-c446-48c0-ab14-284fe48144e9.png)
+
 Codigo:
 
 `x = 2 + y^2 `
